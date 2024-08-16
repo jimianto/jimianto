@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimianto
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and focusing in website development and data science
 - 💞️ I’m looking to collaborate in the future
   
 
